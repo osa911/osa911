@@ -11,3 +11,5 @@ Building things I wish existed.
 🦒 **[GiraffeCloud](https://giraffecloud.xyz)** — Secure tunnels to expose your local server to the internet without revealing your IP. Works with dynamic IPs, automatic HTTPS, bring your own domain. `Go`
 
 🌳 **[GitGrove](https://github.com/osa911/GitGrove)** — See all your git worktrees in one place. macOS app. `Swift`
+
+🏢 **[KozyAgent](https://kozyagent.com)** — Watch your AI agent work, think, and idle in a cozy isometric pixel-art office. Real-time status, speech bubbles, day/night cycles. `JavaScript`
